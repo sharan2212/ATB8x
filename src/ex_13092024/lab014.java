@@ -18,8 +18,7 @@ public class lab014 {
     }
     //String formatting
     //table of 10
-    //
-
+    //First %d has value of num integer 2nd "%d has value of num * 1
 
 
 }
