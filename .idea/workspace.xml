@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a2926b8-6cd7-4f07-864e-635254fcffd2" name="Changes" comment="new class">
-      <change afterPath="$PROJECT_DIR$/src/ex_19092024/lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19092024/lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19092024/lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19092024/lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19092024/lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19092024/lab024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19092024/lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19092024/lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20092024/lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20092024/lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20092024/lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20092024/lab030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23092024/lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23092024/lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23092024/lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24092024/lab034taskcal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24092024/lab035switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24092024/lab036.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,18 +74,27 @@
     "Application.lab024.executor": "Run",
     "Application.lab025.executor": "Run",
     "Application.lab026.executor": "Run",
+    "Application.lab028.executor": "Run",
+    "Application.lab029.executor": "Run",
+    "Application.lab030.executor": "Run",
+    "Application.lab031.executor": "Run",
+    "Application.lab032.executor": "Run",
+    "Application.lab033.executor": "Run",
+    "Application.lab034taskcal.executor": "Run",
+    "Application.lab035Switch.executor": "Run",
+    "Application.lab036.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lab025">
-    <configuration name="lab022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19092024.lab022" />
+  <component name="RunManager" selected="Application.lab036">
+    <configuration name="lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_23092024.lab032" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_19092024.*" />
+          <option name="PATTERN" value="ex_23092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19092024.lab023" />
+    <configuration name="lab033" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_23092024.lab033" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_19092024.*" />
+          <option name="PATTERN" value="ex_23092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19092024.lab024" />
+    <configuration name="lab034taskcal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24092024.lab034taskcal" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_19092024.*" />
+          <option name="PATTERN" value="ex_24092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19092024.lab025" />
+    <configuration name="lab035Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24092024.lab035Switch" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_19092024.*" />
+          <option name="PATTERN" value="ex_24092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19092024.lab026" />
+    <configuration name="lab036" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24092024.lab036" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_19092024.*" />
+          <option name="PATTERN" value="ex_24092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab025" />
-        <item itemvalue="Application.lab026" />
-        <item itemvalue="Application.lab024" />
-        <item itemvalue="Application.lab023" />
-        <item itemvalue="Application.lab022" />
+        <item itemvalue="Application.lab036" />
+        <item itemvalue="Application.lab034taskcal" />
+        <item itemvalue="Application.lab035Switch" />
+        <item itemvalue="Application.lab033" />
+        <item itemvalue="Application.lab032" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726572311018</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new class">
+      <option name="closed" value="true" />
+      <created>1726759876778</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726759876778</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
