@@ -1,0 +1,11 @@
+package ex_25092024;
+
+public class lab040 {
+    public static void main(String[] args) {
+        System.out.println("start");
+        for(int i =0;i<10;i++){
+            System.out.println("sharan");
+        }
+        System.out.println("end");
+    }
+}

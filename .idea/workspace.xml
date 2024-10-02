@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a2926b8-6cd7-4f07-864e-635254fcffd2" name="Changes" comment="new class task 23sept" />
+    <list default="true" id="3a2926b8-6cd7-4f07-864e-635254fcffd2" name="Changes" comment="new class task 23sept">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ec_25092024/lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ec_25092024/lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ec_25092024/labforloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25092024/evenlab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25092024/factorailhw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25092024/lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25092024/lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25092024/lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25092024/lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25092024/loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25092024/vowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +35,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;sharan2212&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;sharan2212&quot;
+    &quot;author&quot;: &quot;sharan2212&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
@@ -52,6 +72,10 @@
     "Application.Lab013.executor": "Run",
     "Application.Lab014.executor": "Run",
     "Application.Lab015.executor": "Run",
+    "Application.ec_25092024.lab036.executor": "Run",
+    "Application.evenlab042.executor": "Debug",
+    "Application.ex_25092024.lab036.executor": "Run",
+    "Application.factorailhw.executor": "Debug",
     "Application.lab001.executor": "Run",
     "Application.lab014.executor": "Run",
     "Application.lab017.executor": "Run",
@@ -69,20 +93,27 @@
     "Application.lab032.executor": "Run",
     "Application.lab033.executor": "Run",
     "Application.lab034taskcal.executor": "Run",
+    "Application.lab035.executor": "Run",
     "Application.lab035Switch.executor": "Run",
     "Application.lab036.executor": "Run",
+    "Application.lab040.executor": "Run",
+    "Application.lab041.executor": "Run",
+    "Application.lab043.executor": "Run",
+    "Application.labforloop.executor": "Run",
+    "Application.loops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lab036">
-    <configuration name="lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23092024.lab032" />
+  <component name="RunManager" selected="Application.factorailhw">
+    <configuration name="evenlab042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25092024.evenlab042" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23092024.*" />
+          <option name="PATTERN" value="ex_25092024.factorailhw" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab033" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23092024.lab033" />
+    <configuration name="factorailhw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25092024.factorailhw" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23092024.*" />
+          <option name="PATTERN" value="ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab034taskcal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_24092024.lab034taskcal" />
+    <configuration name="lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25092024.lab040" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_24092024.*" />
+          <option name="PATTERN" value="ex_25092024.factorailhw" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab035Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_24092024.lab035Switch" />
+    <configuration name="lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25092024.lab041" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_24092024.*" />
+          <option name="PATTERN" value="ex_25092024.factorailhw" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab036" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_24092024.lab036" />
+    <configuration name="lab043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25092024.lab043" />
       <module name="ATB8x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_24092024.*" />
+          <option name="PATTERN" value="ex_25092024.factorailhw" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab036" />
-        <item itemvalue="Application.lab034taskcal" />
-        <item itemvalue="Application.lab035Switch" />
-        <item itemvalue="Application.lab033" />
-        <item itemvalue="Application.lab032" />
+        <item itemvalue="Application.factorailhw" />
+        <item itemvalue="Application.lab043" />
+        <item itemvalue="Application.evenlab042" />
+        <item itemvalue="Application.lab041" />
+        <item itemvalue="Application.lab040" />
       </list>
     </recent_temporary>
   </component>
@@ -225,12 +256,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727182999893</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new class task 23sept">
+      <option name="closed" value="true" />
+      <created>1727183381058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727183381059</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new class" />
     <MESSAGE value="new class task 23sept" />
     <option name="LAST_COMMIT_MESSAGE" value="new class task 23sept" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_25092024/factorailhw.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
